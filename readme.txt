@@ -1,4 +1,4 @@
-=== JB Nice Scroll ===
+=== JB Nice Scroll Bar ===
 Tags: Nice Scroll, Color Scrollbar, Scrollbar Wordpress, Super Scrollbar
 Requires at least: 3.0
 Tested up to: 2.2
@@ -6,7 +6,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-JB Nice Scroll is an awesome Scroll plugin for your wordpress website.
+JB Nice Scroll Bar is an awesome Scroll Bar plugin for your wordpress website.
 
 == Description ==
 
