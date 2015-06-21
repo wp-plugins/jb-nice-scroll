@@ -1,7 +1,7 @@
 === JB Nice Scroll Bar ===
 Tags: Nice Scroll, Color Scrollbar, Scrollbar Wordpress, Super Scrollbar
-Requires at least: 3.0
-Tested up to: 2.2
+Requires at least: 2.5
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
