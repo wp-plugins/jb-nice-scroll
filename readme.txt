@@ -22,7 +22,9 @@ e.g.
 
 1. Upload `plugin-directory` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
 <strong>Plugin Features:<strong>
+
 * Easly to install
 * Unlimited scrollbar color 
 * Work with all version of WordPress
