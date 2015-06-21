@@ -22,9 +22,7 @@ e.g.
 
 1. Upload `plugin-directory` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-
- <strong>Plugin Features:<strong>
-
+<strong>Plugin Features:<strong>
 * Easly to install
 * Unlimited scrollbar color 
 * Work with all version of WordPress
@@ -35,9 +33,9 @@ e.g.
 
 You can install as others regular wordpress plugin. No different way. Please see on installation tab.
 
-= Why this plugin doesn't support link in ticker? =
+= Why this plugin doesn't support link in JB Nice Scroll Bar =
 
-If you need link support in ticker, you have to purchase premium version. Premium version is coming soon. Please wait for that.
+If you need link support in JB Nice Scroll Bar, you have to purchase premium version. Premium version is coming soon. Please wait for that.
 
 
 
